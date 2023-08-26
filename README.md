@@ -43,7 +43,6 @@ Numbers
 ---------
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
-- [FizzBuzz Python](https://github.com/g1tface/beginner-projects/blob/master/solutions/FizzBuzz.py)
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
@@ -124,6 +123,7 @@ Text
 ---------
 
 **Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+- [FizzBuzz Python](https://github.com/g1tface/beginner-projects/blob/master/solutions/FizzBuzz.py)
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
 
